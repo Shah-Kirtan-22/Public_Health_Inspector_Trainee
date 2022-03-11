@@ -1,0 +1,135 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl Apple
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\Apple_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\Apple_COL.png
+
+newmtl Bacon_Cooked
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\Bacon-Cooked_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\Bacon-Cooked_COL.png
+
+newmtl Eggs
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\Eggs_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\Eggs_COL.png
+
+newmtl Food_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Normals.png
+map_Kd 1.png
+
+newmtl Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Glass_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 bump.png
+map_Kd 1.png
+
+newmtl Metal_1a
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.894118 0.890196 0.882353
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.070008 Normals.png
+
+newmtl Potato
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\Potato_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\Potato_COL.png
+
+newmtl _0136_Charcoal_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _Color_002_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.709804 0.709804 0.709804
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _Color_G18_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.156863 0.400000 0.156863
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _Color_M08_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.086275 0.086275 0.086275
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2

@@ -1,0 +1,81 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl FishCooked
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\FishCooked_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\FishCooked_COL.png
+
+newmtl FishRaw
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\FishRaw_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\FishRaw_COL.png
+
+newmtl Food_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Normals.png
+map_Kd 1.png
+
+newmtl Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Metal_1a
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.894118 0.890196 0.882353
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.070008 Normals.png
+
+newmtl Potato
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\Potato_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\Potato_COL.png
+
+newmtl _Color_G18_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.156863 0.400000 0.156863
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2

@@ -1,0 +1,214 @@
+# Blender MTL File: 'None'
+# Material Count: 19
+
+newmtl Banana
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\Banana.png
+
+newmtl Boiled_Eggs
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Assets\\Resources\\FoodPack\\Textures\\Boiled-Eggs_NRM.png
+map_Kd Assets\\Resources\\FoodPack\\Textures\\Boiled-Eggs_COL.png
+
+newmtl Bread
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Assets\\Resources\\FoodPack\\Textures\\Bread_NRM.png
+map_Kd Assets\\Resources\\FoodPack\\Textures\\Bread_COL.png
+
+newmtl Cap
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.036765 0.036765 0.036765
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl CapsicumGreen
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.833367 1.000000 0.610294
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\CapsicumGreen.png
+
+newmtl CapsicumOrange
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.693000 0.475000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\CapsicumYellow.png
+
+newmtl CapsicumRed
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.933824 0.933824
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\CapsicumRed.png
+
+newmtl Carpet_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 bump.png
+map_Kd 1.png
+
+newmtl ChickenSkin
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\ChickenSkin.png
+
+newmtl Chips
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\Chips.png
+
+newmtl CookedMeat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Assets\\Resources\\FoodPack\\Textures\\CookedMeat_NRM.png
+map_Kd Assets\\Resources\\FoodPack\\Textures\\CookedMeat_COL.png
+
+newmtl Metal_1a
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.894118 0.890196 0.882353
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.070008 Normals.png
+
+newmtl Potato
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Assets\\Resources\\FoodPack\\Textures\\Potato_NRM.png
+map_Kd Assets\\Resources\\FoodPack\\Textures\\Potato_COL.png
+
+newmtl Tomato
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 Assets\\Resources\\FoodPack\\Textures\\Tomato_NRM.png
+map_Kd Assets\\Resources\\FoodPack\\Textures\\Tomato_COL.png
+
+newmtl VanillaExtract
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.977941 0.823000 0.381109
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl VanillaExtractBottle
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl VanillaExtractLabel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\VanillaExtractLabel.png
+
+newmtl _Color_G18_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.156863 0.400000 0.156863
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl plates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 props\\textures\\plates-normal.tga
+map_Kd props\\textures\\plates-albedo.tga

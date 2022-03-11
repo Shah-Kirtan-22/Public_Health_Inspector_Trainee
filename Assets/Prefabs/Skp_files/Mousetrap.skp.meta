@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: d9449bf728bb8df449e2542b1bcf6b26
+timeCreated: 1530308214
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2443ebe8b91f386d826dac50f6538bae
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.17696364, y: 0.09833949, z: -0.07135874}
+      lookAt: {x: 0.057332166, y: -0.0029554698, z: 0.031288262}
+      up: {x: -0.4102787, y: 0.8412766, z: 0.3520301}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 3.4611251
+      isPerspective: 0
+    scenes:
+    - camera:
+        position: {x: 0.17614608, y: 0.09634987, z: -0.075197585}
+        lookAt: {x: 0.05376594, y: -0.000114445465, z: 0.028852899}
+        up: {x: -0.39222148, y: 0.8572958, z: 0.33347595}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 3.6762593
+        isPerspective: 0
+      name: Assy
+    - camera:
+        position: {x: 2.4790483, y: 2.018431, z: -1.8852273}
+        lookAt: {x: 0.44732898, y: 0.63241297, z: 0.372567}
+        up: {x: -0.2776941, y: 0.9097559, z: 0.30859393}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 63.62777
+        isPerspective: 0
+      name: IPB-1
+    - camera:
+        position: {x: -1.8606881, y: -0.9002489, z: -2.0756056}
+        lookAt: {x: 0.27171358, y: 0.54449594, z: 0.23711675}
+        up: {x: -0.28291076, y: 0.9087432, z: -0.3068343}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 62.418247
+        isPerspective: 0
+      name: IPB-2
+    - camera:
+        position: {x: 1.8317355, y: 0.8274949, z: -1.2543339}
+        lookAt: {x: 0.6663529, y: 0.03248296, z: 0.040724006}
+        up: {x: -0.2776941, y: 0.9097559, z: 0.30859393}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 27.631582
+        isPerspective: 0
+      name: A
+    - camera:
+        position: {x: 0.45286846, y: 0.44659033, z: -0.16527528}
+        lookAt: {x: 0.02545129, y: 0.019173136, z: 0.26214188}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 12.592128
+        isPerspective: 0
+      name: B
+    - camera:
+        position: {x: 0.21823959, y: 0.3700228, z: -0.17044322}
+        lookAt: {x: 0.09116538, y: 0.26989347, z: 0.0027263365}
+        up: {x: -0.24996656, y: 0.90635586, z: 0.34064037}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 4.8324127
+        isPerspective: 0
+      name: C
+    - camera:
+        position: {x: 0.9178334, y: 0.8124107, z: -0.185548}
+        lookAt: {x: 0.3844413, y: 0.27901858, z: 0.34784418}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 16.749966
+        isPerspective: 0
+      name: D
+    - camera:
+        position: {x: 0.3601515, y: 0.29526258, z: -0.7980188}
+        lookAt: {x: 0.3601515, y: 0.29526258, z: 0.32081264}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 14.769389
+        isPerspective: 0
+      name: E
+    - camera:
+        position: {x: 0.3412489, y: 0.6548042, z: -0.048835356}
+        lookAt: {x: -0.05348767, y: 0.2600677, z: 0.3459012}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 14.949408
+        isPerspective: 0
+      name: F
+    - camera:
+        position: {x: 1.2061058, y: 0.8335121, z: -0.1585248}
+        lookAt: {x: 0.6566271, y: 0.28403333, z: 0.39095393}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 17.675667
+        isPerspective: 0
+      name: G
+    - camera:
+        position: {x: 1.089119, y: 0.61258215, z: -0.022236947}
+        lookAt: {x: 0.7137979, y: 0.23726112, z: 0.3530841}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 15.423971
+        isPerspective: 0
+      name: H
+    - camera:
+        position: {x: 0.9347248, y: 0.52170175, z: -0.13279352}
+        lookAt: {x: 0.71034086, y: 0.29731777, z: 0.09159049}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 7.6688304
+        isPerspective: 0
+      name: J
+    - camera:
+        position: {x: 1.7807015, y: 1.7200418, z: -1.0141985}
+        lookAt: {x: 0.5110836, y: 0.8539213, z: 0.3966934}
+        up: {x: -0.2776941, y: 0.9097559, z: 0.30859393}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 47.499653
+        isPerspective: 0
+      name: K
+    - camera:
+        position: {x: -0.95024216, y: 1.4855276, z: -1.1326625}
+        lookAt: {x: 0.35929018, y: 0.8220984, z: 0.34980065}
+        up: {x: 0.2105231, y: 0.9480938, z: 0.23832382}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 48.564014
+        isPerspective: 0
+      name: L
+    - camera:
+        position: {x: 0.49634954, y: 0.41234478, z: -0.13527541}
+        lookAt: {x: 0.3559192, y: 0.27191448, z: 0.005154884}
+        up: {x: -0.4082483, y: 0.8164966, z: 0.4082483}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 6.3470144
+        isPerspective: 0
+      name: M
+    - camera:
+        position: {x: 2.4704363, y: 1.6482528, z: -1.573817}
+        lookAt: {x: 0.33612496, y: 0.1922474, z: 0.7979853}
+        up: {x: -0.2776941, y: 0.9097559, z: 0.30859393}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 59.389732
+        isPerspective: 0
+      name: Cutlist
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' Mousetrap'
+    100002: convexhull
+    100004: convexhull 1
+    100006: convexhull 2
+    100008: convexhull 3
+    100010: convexhull 4
+    100012: convexhull 5
+    100014: convexhull 6
+    100016: cylinder
+    100018: Group 14
+    100020: Group 2
+    100022: Group 23
+    100024: Group 25
+    100026: Group 27
+    100028: Group 28
+    100030: Group 30
+    100032: Group 32
+    100034: Group 34
+    100036: Group 36
+    100038: Group 37
+    100040: Group 38
+    100042: Group 40
+    100044: Group 42
+    100046: Group 44
+    100048: Group 5
+    100050: Group 7
+    100052: //RootNode
+    400000: ' Mousetrap'
+    400002: convexhull
+    400004: convexhull 1
+    400006: convexhull 2
+    400008: convexhull 3
+    400010: convexhull 4
+    400012: convexhull 5
+    400014: convexhull 6
+    400016: cylinder
+    400018: Group 14
+    400020: Group 2
+    400022: Group 23
+    400024: Group 25
+    400026: Group 27
+    400028: Group 28
+    400030: Group 30
+    400032: Group 32
+    400034: Group 34
+    400036: Group 36
+    400038: Group 37
+    400040: Group 38
+    400042: Group 40
+    400044: Group 42
+    400046: Group 44
+    400048: Group 5
+    400050: Group 7
+    400052: //RootNode
+    2100000: '[_CoolGray5_]'
+    2100002: _4
+    2100004: '[Color_000]'
+    2100006: 0000000
+    2100008: _3
+    2100010: _6
+    2100012: 00000000
+    2100014: _2
+    2100016: _5
+    2100018: 4661
+    2100020: _7
+    2100022: '[Metal_Corrogated_Shiny]'
+    2300000: convexhull
+    2300002: convexhull 1
+    2300004: convexhull 2
+    2300006: convexhull 3
+    2300008: convexhull 4
+    2300010: convexhull 5
+    2300012: convexhull 6
+    2300014: cylinder
+    2300016: Group 23
+    2300018: Group 25
+    2300020: Group 28
+    2300022: Group 30
+    2300024: Group 32
+    2300026: Group 34
+    2300028: Group 38
+    2300030: Group 40
+    2300032: Group 42
+    2300034: Group 44
+    2300036: Group 5
+    3300000: convexhull
+    3300002: convexhull 1
+    3300004: convexhull 2
+    3300006: convexhull 3
+    3300008: convexhull 4
+    3300010: convexhull 5
+    3300012: convexhull 6
+    3300014: cylinder
+    3300016: Group 23
+    3300018: Group 25
+    3300020: Group 28
+    3300022: Group 30
+    3300024: Group 32
+    3300026: Group 34
+    3300028: Group 38
+    3300030: Group 40
+    3300032: Group 42
+    3300034: Group 44
+    3300036: Group 5
+    4300000: Mesh convexhull
+    4300002: Mesh Group 5
+    4300004: Mesh convexhull
+    4300006: Mesh convexhull
+    4300008: Mesh convexhull
+    4300010: Mesh convexhull
+    4300012: Mesh convexhull
+    4300014: Mesh convexhull
+    4300016: Mesh cylinder
+    4300018: Mesh Group 23
+    4300020: Mesh Group 25
+    4300022: Mesh Group 28
+    4300024: Mesh Group 30
+    4300026: Mesh Group 32
+    4300028: Mesh Group 38
+    4300030: Mesh Group 40
+    4300032: Mesh Group 42
+    4300034: Mesh Group 44
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

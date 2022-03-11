@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 487fd7d2364d646a2a22e81b76440552
+timeCreated: 1528674342
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000160000001700000018000000190000001a0000001b0000001d0000001e0000001f00000020000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000005d0000005e0000005f00000060000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d4b5cf2aebf9cd00eb3f6e45277a27b5
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.8408852, y: 1.4676031, z: -1.6914171}
+      lookAt: {x: -0.2455598, y: 0.9144496, z: -0.43093252}
+      up: {x: 0.15751515, y: 0.92949545, z: 0.33350736}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BPS21#2
+    100002: Dimensions
+    100004: DOOR
+    100006: DOOR 1
+    100008: Group 31
+    100010: Group 67
+    100012: Group 69
+    100014: Group 73
+    100016: Group 77
+    100018: Group 95
+    100020: KickPlateB
+    100022: KickPlateF
+    100024: Rail
+    100026: //RootNode
+    400000: BPS21#2
+    400002: Dimensions
+    400004: DOOR
+    400006: DOOR 1
+    400008: Group 31
+    400010: Group 67
+    400012: Group 69
+    400014: Group 73
+    400016: Group 77
+    400018: Group 95
+    400020: KickPlateB
+    400022: KickPlateF
+    400024: Rail
+    400026: //RootNode
+    2100000: _defaultMat
+    2100002: '[Color_001]'
+    2100004: '[Color_000]'
+    2300000: BPS21#2
+    2300002: Dimensions
+    2300004: DOOR
+    2300006: DOOR 1
+    2300008: Group 31
+    2300010: Group 67
+    2300012: Group 69
+    2300014: Group 73
+    2300016: Group 77
+    2300018: Group 95
+    2300020: KickPlateB
+    2300022: KickPlateF
+    2300024: Rail
+    2300026: //RootNode
+    3300000: BPS21#2
+    3300002: Dimensions
+    3300004: DOOR
+    3300006: DOOR 1
+    3300008: Group 31
+    3300010: Group 67
+    3300012: Group 69
+    3300014: Group 73
+    3300016: Group 77
+    3300018: Group 95
+    3300020: KickPlateB
+    3300022: KickPlateF
+    3300024: Rail
+    3300026: //RootNode
+    4300000: Mesh SBC30CDD
+    4300002: Mesh KickPlateF
+    4300004: Mesh Rail
+    4300006: Mesh Dimensions
+    4300008: Mesh KickPlateB
+    4300010: Mesh Group 31
+    4300012: Mesh Group 67
+    4300014: Mesh Group 69
+    4300016: Mesh DOOR
+    4300018: Mesh Group 73
+    4300020: Mesh DOOR
+    4300022: Mesh BPS21#2
+    4300024: Mesh Group 95
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

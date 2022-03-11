@@ -1,0 +1,70 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl bowls_dishes_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\bowls_dishes-2.tga
+
+newmtl combined_3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\combined-3.tga
+
+newmtl combined_4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 Assets\\Resources\\Assets_Kitchen\\models\\Materials\\combined-4_NORMAL.tga
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\combined-4.tga
+
+newmtl combined_7
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.243137 0.243137 0.243137
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 Assets\\Resources\\Assets_Kitchen\\models\\Materials\\combined-7_NORMAL.tga
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\combined-7.tga
+
+newmtl defaultMat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl worktable_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 Assets\\Resources\\Assets_Kitchen\\models\\Materials\\worktable-2_NORMAL.tga
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\worktable-2.tga

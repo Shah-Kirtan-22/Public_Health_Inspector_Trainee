@@ -1,0 +1,7 @@
+Tris: 2.4M
+Verts: 3.2M
+
+
+After
+Tris: 840K
+Verts: 1.2M

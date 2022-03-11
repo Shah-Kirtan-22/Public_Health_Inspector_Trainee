@@ -1,0 +1,321 @@
+# Blender MTL File: 'None'
+# Material Count: 29
+
+newmtl Bacon_Cooked
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 Assets\\Resources\\FoodPack\\Textures\\Bacon-Cooked_NRM.png
+map_Kd Assets\\Resources\\FoodPack\\Textures\\Bacon-Cooked_COL.png
+
+newmtl Banana
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\Banana.png
+
+newmtl BlackPepper
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\BlackPepper.png
+
+newmtl BlueBerries
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\Berries_Surface_Color.png
+
+newmtl Bowl
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.632353 0.576557 0.576557
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl BrownSugar
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\BrownSugar.png
+
+newmtl Cap
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.036765 0.036765 0.036765
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl CapsicumGreen
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.833367 1.000000 0.610294
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\CapsicumGreen.png
+
+newmtl CapsicumOrange
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.693000 0.475000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\CapsicumYellow.png
+
+newmtl CapsicumRed
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.933824 0.933824
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\CapsicumRed.png
+
+newmtl Cheese
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\Cheese.png
+
+newmtl ChickenSkin
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\ChickenSkin.png
+
+newmtl ChiliPowder
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\ChiliPowder.png
+
+newmtl DriedYeast
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.952830 0.919354 0.831479
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\DriedYeast.png
+
+newmtl Flour
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\FlourTexture.png
+
+newmtl GarlicPowder
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\GarlicPowder.png
+
+newmtl OliveOil
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.437329 0.463235 0.156683
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl OliveOilBottle
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.729412 0.584314 0.184314
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl OliveOilLabel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\OliveOilLabel.png
+
+newmtl TomatoBody
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\TomatoBody.png
+
+newmtl TomatoCrossection
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.867647 0.867647
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\TomatoCrossection.png
+
+newmtl TomatoHead
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\TomatoHead.png
+
+newmtl TomatoPuree
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Mixed\\Textures\\TomatoPureeSurface_Color.png
+
+newmtl WhitePlate
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.882353 0.882353 0.882353
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl bowls_dishes_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\bowls_dishes-2.tga
+
+newmtl knives
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 props\\textures\\knives_normal.tga
+map_Kd props\\textures\\knives_albedo.tga
+
+newmtl plates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 props\\textures\\plates-normal.tga
+map_Kd props\\textures\\plates-albedo.tga
+
+newmtl range_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 Assets\\Resources\\Assets_Kitchen\\models\\Materials\\range-1_NORMAL.tga
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\range-1.tga
+
+newmtl worktable_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 Assets\\Resources\\Assets_Kitchen\\models\\Materials\\worktable-2_NORMAL.tga
+map_Kd Assets\\Resources\\Assets_Kitchen\\models\\Materials\\worktable-2.tga

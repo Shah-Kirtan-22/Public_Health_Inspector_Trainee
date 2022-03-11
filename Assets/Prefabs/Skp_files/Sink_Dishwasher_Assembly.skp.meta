@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: c66a025e2bef09141acae4e7a7886e9e
+timeCreated: 1528809103
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000250000002600000027000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0a7bb22f4fdd73624866628f6a609573
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 5.6726384, y: 2.4484491, z: -1.5156763}
+      lookAt: {x: 2.1362364, y: 0.9006125, z: 1.453907}
+      up: {x: -0.24338064, y: 0.94815516, z: 0.2043713}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bar
+    100002: Component#127
+    100004: dishwasher
+    100006: Group 1
+    100008: Group 14
+    100010: Group 16
+    100012: Group 2
+    100014: Group 8
+    100016: Leg 1
+    100018: Leg 1 1
+    100020: Leg 1 10
+    100022: Leg 1 2
+    100024: Leg 1 3
+    100026: Leg 1 4
+    100028: Leg 1 5
+    100030: Leg 1 6
+    100032: Leg 1 7
+    100034: Leg 1 8
+    100036: Leg 1 9
+    100038: Pre-Rinse Faucet
+    100040: //RootNode
+    400000: bar
+    400002: Component#127
+    400004: dishwasher
+    400006: Group 1
+    400008: Group 14
+    400010: Group 16
+    400012: Group 2
+    400014: Group 8
+    400016: Leg 1
+    400018: Leg 1 1
+    400020: Leg 1 10
+    400022: Leg 1 2
+    400024: Leg 1 3
+    400026: Leg 1 4
+    400028: Leg 1 5
+    400030: Leg 1 6
+    400032: Leg 1 7
+    400034: Leg 1 8
+    400036: Leg 1 9
+    400038: Pre-Rinse Faucet
+    400040: //RootNode
+    2100000: _defaultMat
+    2100002: _Silver_
+    2100004: _Charcoal_
+    2100006: _Black_
+    2100008: _DimGray_
+    2100010: '[Metal_Aluminum_Anodized]'
+    2100012: '[_0137_Black_]'
+    2100014: Disposal
+    2100016: '[Color_D10]'
+    2100018: '[Color_006]'
+    2100020: '[Metal_Corrogated_Shiny]'
+    2100022: '[Color_I18]'
+    2100024: '[Metal_Seamed]'
+    2100026: '[Color_008]'
+    2100028: '[Color_001]'
+    2100030: _3
+    2100032: '[Color_009]'
+    2100034: _4
+    2100036: _2
+    2100038: '[Color_A01]'
+    2100040: '[Color_I01]'
+    2100042: '[Metal_Corrogated_Shiny]1'
+    2300000: bar
+    2300002: Component#127
+    2300004: dishwasher
+    2300006: Group 14
+    2300008: Group 16
+    2300010: Group 2
+    2300012: Group 8
+    2300014: Leg 1
+    2300016: Leg 1 1
+    2300018: Leg 1 10
+    2300020: Leg 1 2
+    2300022: Leg 1 3
+    2300024: Leg 1 4
+    2300026: Leg 1 5
+    2300028: Leg 1 6
+    2300030: Leg 1 7
+    2300032: Leg 1 8
+    2300034: Leg 1 9
+    2300036: Pre-Rinse Faucet
+    3300000: bar
+    3300002: Component#127
+    3300004: dishwasher
+    3300006: Group 14
+    3300008: Group 16
+    3300010: Group 2
+    3300012: Group 8
+    3300014: Leg 1
+    3300016: Leg 1 1
+    3300018: Leg 1 10
+    3300020: Leg 1 2
+    3300022: Leg 1 3
+    3300024: Leg 1 4
+    3300026: Leg 1 5
+    3300028: Leg 1 6
+    3300030: Leg 1 7
+    3300032: Leg 1 8
+    3300034: Leg 1 9
+    3300036: Pre-Rinse Faucet
+    4300000: Mesh Group 2
+    4300002: Mesh dishwasher
+    4300004: Mesh bar
+    4300006: Mesh Group 8
+    4300008: Mesh Leg 1
+    4300010: Mesh Group 14
+    4300012: Mesh Group 16
+    4300014: Mesh Pre-Rinse Faucet
+    4300016: Mesh Component#127
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

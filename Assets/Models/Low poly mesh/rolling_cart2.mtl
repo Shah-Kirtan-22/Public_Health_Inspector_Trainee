@@ -1,0 +1,132 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl BeerBottle
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\BeerBottle.png
+
+newmtl Bowl
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.632353 0.576557 0.576557
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Butter
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\butter.png
+
+newmtl Cheese
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\Cheese.png
+
+newmtl CreamCheese
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 0.858824
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\WhiteCreamCheese.png
+
+newmtl Metal_1a
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.894118 0.890196 0.882353
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.070008 Normals.png
+
+newmtl TomatoPuree
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\TomatoPureeSurface_Color.png
+
+newmtl Veggie_Stew
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 files\\Assets\\Resources\\FoodPack\\Textures\\Veggie-Stew_NRM.png
+map_Kd files\\Assets\\Resources\\FoodPack\\Textures\\Veggie-Stew_COL.png
+
+newmtl WhitePlate
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.882353 0.882353 0.882353
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Yogurt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Mixed\\Textures\\yogurt.png
+
+newmtl _Color_G18_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.156863 0.400000 0.156863
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl bowls_dishes_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd files\\Assets\\Resources\\Assets_Kitchen\\models\\Materials\\bowls_dishes-2.tga

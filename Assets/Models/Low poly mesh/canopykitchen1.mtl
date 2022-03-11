@@ -1,0 +1,65 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Metal_1a
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.894118 0.890196 0.882353
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.070008 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Metal\\Textures\\Metal 1 Normals.png
+
+newmtl Metal_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.350042 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Metal\\Textures\\Metal 2 Normals.png
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Metal\\Textures\\Metal 2.png
+
+newmtl Sprites_Default
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _Translucent_Glass_Sky_Reflection_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl _defaultMat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl top_glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.101961 0.101961 0.101961
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2

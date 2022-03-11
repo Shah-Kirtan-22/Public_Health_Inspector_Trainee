@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a9c046b38cb85764ba36bfd400838521
+timeCreated: 1531172247
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3275a3e771601cc485d60f7b3b9322ad
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.5522318, y: 1.8118321, z: -2.1921918}
+      lookAt: {x: 0.41635758, y: 0.81545186, z: 0.9306782}
+      up: {x: -0.14377068, y: 0.9670278, z: 0.21020769}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: acorn
+    100002: Group 1
+    100004: HANDLE
+    100006: Mouse
+    100008: ske18D
+    100010: ske18D 1
+    100012: //RootNode
+    400000: acorn
+    400002: Group 1
+    400004: HANDLE
+    400006: Mouse
+    400008: ske18D
+    400010: ske18D 1
+    400012: //RootNode
+    2100000: _defaultMat
+    2100002: Fencing_Chain_Link
+    2100004: '[Fencing_Diamond_Mesh]'
+    2100006: _1
+    2100008: '[Color_C16]'
+    2100010: '[Color_C21]'
+    2100012: '[_0132_LightGray_]'
+    2100014: '[Color_003]'
+    2100016: '[_0006_Pink_]'
+    2100018: '[_0137_Black_]'
+    2300000: acorn
+    2300002: Group 1
+    2300004: HANDLE
+    2300006: Mouse
+    2300008: ske18D
+    2300010: ske18D 1
+    3300000: acorn
+    3300002: Group 1
+    3300004: HANDLE
+    3300006: Mouse
+    3300008: ske18D
+    3300010: ske18D 1
+    4300000: Mesh Group 1
+    4300002: Mesh acorn
+    4300004: Mesh Mouse
+    4300006: Mesh ske18D
+    4300008: Mesh HANDLE
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

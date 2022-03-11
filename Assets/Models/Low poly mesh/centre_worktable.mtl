@@ -1,0 +1,279 @@
+# Blender MTL File: 'None'
+# Material Count: 25
+
+newmtl BlueBerries
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Berries_Surface_Color.png
+
+newmtl Boiled_Eggs
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\FoodPack\\Textures\\Boiled-Eggs_NRM.png
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\FoodPack\\Textures\\Boiled-Eggs_COL.png
+
+newmtl Cap
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.036765 0.036765 0.036765
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl CapsicumGreen
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.833367 1.000000 0.610294
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\CapsicumGreen.png
+
+newmtl CapsicumOrange
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.693000 0.475000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\CapsicumYellow.png
+
+newmtl CapsicumRed
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.933824 0.933824
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\CapsicumRed.png
+
+newmtl Carrot
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Carrot.png
+map_d D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Carrot.png
+
+newmtl Coconut
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\FoodPack\\Textures\\Coconut_NRM.png
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\FoodPack\\Textures\\Coconut_COL.png
+
+newmtl Dirt_4
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Dirt\\Textures\\Dirt 4 bump.png
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Dirt\\Textures\\Dirt 4.png
+map_d D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Dirt\\Textures\\Dirt 4.png
+
+newmtl Material_001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Mushroom1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Mushroom1_Surface_Color.png
+
+newmtl Mushroom2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Mushroom2_Surface_Color.png
+
+newmtl Mushroom3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Mushroom3_Surface_Color.png
+
+newmtl OliveOil
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.437329 0.463235 0.156683
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl OliveOilBottle
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.729412 0.584314 0.184314
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl OliveOilLabel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\OliveOilLabel.png
+map_d D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\OliveOilLabel.png
+
+newmtl Onion
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Onion.png
+map_d D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Food Pack Mixed\\Textures\\Onion.png
+
+newmtl WhitePlate
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.882353 0.882353 0.882353
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Wooden_Boards_2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Wooden Boards\\Textures\\Wooden Boards 2 bump.png
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Wooden Boards\\Textures\\Wooden Boards 2.png
+map_d D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Materials\\Wooden Boards\\Textures\\Wooden Boards 2.png
+
+newmtl _0035_Tan_
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.823529 0.705882 0.549020
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl _Metal_Rough_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl _defaultMat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl knives
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\kitchen props\\textures\\knives_normal.tga
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\kitchen props\\textures\\knives_albedo.tga
+
+newmtl sprayBottleMat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl worktable_1
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 2.000000 2.000000 2.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.140017 D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Assets_Kitchen\\models\\Materials\\worktable-1_NORMAL.tga
+map_Kd D:\\Study\\Public-health-Inspector-Trainee\\Assets\\Resources\\Assets_Kitchen\\models\\Materials\\worktable-1.tga
